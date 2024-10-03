@@ -1,0 +1,14 @@
+[user]
+	name = Will Buckser-Schulz
+	email = bucksers@usc.edu
+[color]
+	ui = auto
+[core]
+	editor = nvim
+	autocrlf = input
+[push]
+	default = simple
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
